@@ -1,1 +1,3 @@
-# Matplotlib-python
+# Matplotlib Python
+
+Cheat Sheet
