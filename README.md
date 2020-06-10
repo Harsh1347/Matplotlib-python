@@ -1,3 +1,5 @@
 # Matplotlib Python
 
-Cheat Sheet
+Cheat Sheet for Python matplotlib for creating visualization
+
+
